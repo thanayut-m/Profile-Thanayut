@@ -12,7 +12,7 @@ const Projects = () => {
             project_id: 1,
             labelTitle: "LatLon to Address",
             labelDetail: "พัฒนาแอปพลิเคชันสำหรับส่งค่าพิกัดภูมิศาสตร์ (Latitude, Longitude) ไปยัง Longdo Map API เพื่อดึงข้อมูลที่อยู่ระดับ ตำบล อำเภอ จังหวัด และรหัสไปรษณีย์ กลับมา แล้วนำข้อมูลดังกล่าวบันทึกลงในฐานข้อมูล (Database)",
-            image: "/src/assets/images/ProjectsImage/pj_1.png",
+            image: "/Profile-Thanayut/assets/images/projects_1/pj_1.png",
             to: `/projects-detail/1`,
             tags: ["Express", "MySQL", "API"],
         },
