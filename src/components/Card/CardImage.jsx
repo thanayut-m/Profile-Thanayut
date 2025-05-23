@@ -19,7 +19,7 @@ const CardImage = ({
     return (
         <Link
             to={to}
-            className="card card-side grid grid-cols-3 items-center bg-base-100 hover:bg-base-300 transition delay-100 cursor-pointer shadow-sm p-3"
+            className="card card-side grid grid-cols-3 items-center bg-base-100 hover:bg-base-300 hover:shadow-xl transition delay-100 cursor-pointer shadow-sm p-3"
         >
             <figure className="flex jus rounded-xl overflow-hidden w-full h-[175px]">
                 <img
